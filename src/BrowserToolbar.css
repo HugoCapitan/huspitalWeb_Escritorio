@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/02/2015, 11:24:41 AM
+    Author     : Alumno
+*/
+
+.browser{
+    -fx-background-color: #666970;
+}
+.browser-toolbar .hyperlink, .browser-toolbar .button, .browser-toolbar{
+    -fx-text-fill: white;
+}
+.browser-toolbar{
+    -fx-base: #505359;
+    -fx-background: #505359;
+    -fx-shadow-highlight-color: transparent;
+    -fx-spacing: 5;
+    -fx-padding: 4 4 4 4;    
+    -fx-heigth: 64px; 
+}
+
+.link{
+    -fx-text-fill: #000;
+}
+
